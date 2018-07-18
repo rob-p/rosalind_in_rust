@@ -1,0 +1,6 @@
+[package]
+name = "count_nuc"
+version = "0.1.0"
+authors = ["rob-p <rob-p@users.noreply.github.com>"]
+
+[dependencies]
