@@ -1,0 +1,7 @@
+[package]
+name = "percent_gc"
+version = "0.1.0"
+authors = ["rob-p <rob-p@users.noreply.github.com>"]
+
+[dependencies]
+seq_io = "^0.2.4"
